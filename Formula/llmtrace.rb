@@ -1,8 +1,8 @@
 class Llmtrace < Formula
   desc "Per-inference telemetry proxy for local LLM servers (oMLX, mlx-lm)"
   homepage "https://github.com/ordishs/llmtrace"
-  url "https://github.com/ordishs/llmtrace/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "ad78a4bb05be500cb13ff222b7bc85b9704e9631fe4a68c066e85d58de2e1588"
+  url "https://github.com/ordishs/llmtrace/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "59aec195c610d04d170ced96fb193a954797e8300a1fb240b3d173eeb5fad736"
   license "MIT"
   head "https://github.com/ordishs/llmtrace.git", branch: "master"
 
