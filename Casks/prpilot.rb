@@ -1,6 +1,6 @@
 cask "prreview" do
-  version "0.1.1"
-  sha256 "8434061beb09893c20da66eb31a1c77159c28f444347ebcfbcd0aaff891c865e"
+  version "0.1.2"
+  sha256 "811cd13fda79aa6b05e16ad94e3ed4f9bb3f657eaa86632d208c4830097c6963"
 
   url "https://github.com/ordishs/PRReview/releases/download/v#{version}/PRReview-#{version}.dmg"
   name "PR Review"
