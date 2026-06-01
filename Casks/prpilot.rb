@@ -10,7 +10,7 @@ cask "prpilot" do
   depends_on macos: :sonoma
   depends_on formula: "gh"
 
-  app "PRPilot.app"
+  app "PR Pilot.app", target: "PRPilot.app"
 
   zap trash: [
     "~/Library/Application Support/PRPilot",
