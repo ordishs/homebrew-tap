@@ -1,6 +1,6 @@
 cask "prpilot" do
-  version "0.5.0"
-  sha256 "cee060d842a8e960b6783f9268b8032d8218ae5e596e7e1f0c4275b28e4c30d7"
+  version "0.6.0"
+  sha256 "59479811df370aea3781935ded175e2c9f82598223388d9f38bd4155ab59a1b7"
 
   url "https://github.com/ordishs/PRPilot/releases/download/v#{version}/PRPilot-#{version}.dmg"
   name "PR Pilot"
