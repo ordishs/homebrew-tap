@@ -1,8 +1,8 @@
 class Localcode < Formula
   desc "Wrapper that points the pi coding agent at the abila inference gateway"
   homepage "https://github.com/ordishs/localcode"
-  url "https://github.com/ordishs/localcode/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "c600dc105eab2e82d6b66c5a4abde9aae22174555a06987a93007b998ce5bdf8"
+  url "https://github.com/ordishs/localcode/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "72b3e852d5e13d781c23478f975f97bc50f86ba6b57542a6866439ba37259f90"
   license :cannot_represent
   head "https://github.com/ordishs/localcode.git", branch: "main"
 
